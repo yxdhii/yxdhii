@@ -5,11 +5,16 @@ Apasionada por el aprendizaje de programación y el desarrollo web.
 Me encanta crear, experimentar y seguir mejorando día a día.  
 
 ---
+
+## 🔥 Mi racha de contribuciones
+![Racha](https://streak-stats.demolab.com/?user=TUUSUARIO&theme=radical)
+
 ## 📊 Mis estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yxdhii&show_icons=true&theme=dracula)
 
 ## 💻 Lenguajes más usados
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=dracula)
+
 
 ## 🚀 Tecnologías que uso
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
