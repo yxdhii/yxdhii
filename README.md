@@ -1,5 +1,5 @@
 <div align="center">
-# 🌸 Bienvenidos, Soy Yadhira 🌸
+🌸 Bienvenidos, Soy Yadhira 🌸
 </div>
 
 ## Sobre mí
@@ -8,14 +8,22 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 
 ---
 
-## 🔥 Mi racha de contribuciones
-![Racha](https://streak-stats.demolab.com/?user=TUUSUARIO&theme=radical)
-
-## 📊 Mis estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=yxdhii&show_icons=true&theme=dracula)
-
-## 💻 Lenguajes más usados
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=dracula)
+<table>
+  <tr>
+    <td>
+      ## 🔥 Mi racha de contribuciones
+      <img src="https://streak-stats.demolab.com/?user=TUUSUARIO&theme=radical" alt="Racha" />
+    </td>
+    <td>
+      ## 📊 Mis estadísticas de GitHub
+      <img src="https://github-readme-stats.vercel.app/api?username=yxdhii&show_icons=true&theme=dracula" alt="Stats" />
+    </td>
+    <td>
+      ## 💻 Lenguajes más usados
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=dracula" alt="Lenguajes" />
+    </td>
+  </tr>
+</table>
 
 
 ## 🚀 Tecnologías que uso
@@ -24,22 +32,6 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 🛠️ Habilidades
-HTML 5  
-<div style="background-color: #e0e0e0; border-radius: 5px; width: 200px;">
-  <div style="width: 90%; background-color: #E34F26; padding: 5px 0; border-radius: 5px;"></div>
-</div>
-
-CSS 3  
-<div style="background-color: #e0e0e0; border-radius: 5px; width: 200px;">
-  <div style="width: 80%; background-color: #1572B6; padding: 5px 0; border-radius: 5px;"></div>
-</div>
-
-JavaScript  
-<div style="background-color: #e0e0e0; border-radius: 5px; width: 200px;">
-  <div style="width: 70%; background-color: #F7DF1E; padding: 5px 0; border-radius: 5px;"></div>
-</div>
 
 ## 🌐 Síganme en mis redes sociales
 
