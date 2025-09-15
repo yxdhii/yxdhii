@@ -23,12 +23,11 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## Gift
-![Chica programando](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Y3l5OHA2YmRiMzJobDN2MWpld2p3eG1xeXd0c2d6MHNmemF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcqCKYnrHiAgwpGqme/giphy.gif)
-
-
 ## 🌐 Síganme en mis redes sociales
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yxdhii)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsyxdhi)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its.yxdhi)
+
+
+![Chica programando](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Y3l5OHA2YmRiMzJobDN2MWpld2p3eG1xeXd0c2d6MHNmemF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcqCKYnrHiAgwpGqme/giphy.gif)
