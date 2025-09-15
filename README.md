@@ -24,7 +24,7 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Gift
-![Chica programando](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+![Chica programando](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2U1Y3l5OHA2YmRiMzJobDN2MWpld2p3eG1xeXd0c2d6MHNmemF4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EcqCKYnrHiAgwpGqme/giphy.gif)
 
 
 ## 🌐 Síganme en mis redes sociales
