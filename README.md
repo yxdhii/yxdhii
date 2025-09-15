@@ -30,4 +30,4 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its.yxdhi)
 
 
-![Chica programando](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajU5NTd5ZmwwcjZvYnJ1b2NnY2phZDc3Y3RjanVsa2VwdGZ1ZjJ0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9PhdJO4CMfyfXDCnko/giphy.gif)
+![Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZzY21kb3o3NTYzYmFmNGJ4c3hneHFnMjNwMHNleG95ZngwZWxjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif)
