@@ -1,6 +1,6 @@
 <div align="center">
-
 # 🌸 Bienvenidos, Soy Yadhira 🌸
+</div>
 
 ## Sobre mí
 Apasionada por el aprendizaje de programación y el desarrollo web.  
