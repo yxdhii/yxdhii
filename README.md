@@ -1,5 +1,5 @@
 <div align="center">
-# 🌸 Bienvenidos, Soy Yadhira 🌸
+🌸 Bienvenidos, Soy Yadhira 🌸
 </div>
 
 ## Sobre mí
