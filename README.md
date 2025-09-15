@@ -25,6 +25,22 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+## 🛠️ Habilidades
+HTML 5  
+<div style="background-color: #e0e0e0; border-radius: 5px; width: 200px;">
+  <div style="width: 90%; background-color: #E34F26; padding: 5px 0; border-radius: 5px;"></div>
+</div>
+
+CSS 3  
+<div style="background-color: #e0e0e0; border-radius: 5px; width: 200px;">
+  <div style="width: 80%; background-color: #1572B6; padding: 5px 0; border-radius: 5px;"></div>
+</div>
+
+JavaScript  
+<div style="background-color: #e0e0e0; border-radius: 5px; width: 200px;">
+  <div style="width: 70%; background-color: #F7DF1E; padding: 5px 0; border-radius: 5px;"></div>
+</div>
+
 ## 🌐 Síganme en mis redes sociales
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yxdhii)
