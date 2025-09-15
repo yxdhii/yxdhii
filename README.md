@@ -11,15 +11,15 @@ Me encanta crear, experimentar y seguir mejorando día a día.
 <table>
   <tr>
     <td>
-      ## 🔥 Mi racha de contribuciones
+      🔥 Mi racha de contribuciones
       <img src="https://streak-stats.demolab.com/?user=TUUSUARIO&theme=radical" alt="Racha" />
     </td>
     <td>
-      ## 📊 Mis estadísticas de GitHub
+       📊 Mis estadísticas de GitHub
       <img src="https://github-readme-stats.vercel.app/api?username=yxdhii&show_icons=true&theme=dracula" alt="Stats" />
     </td>
     <td>
-      ## 💻 Lenguajes más usados
+       💻 Lenguajes más usados
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=dracula" alt="Lenguajes" />
     </td>
   </tr>
