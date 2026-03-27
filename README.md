@@ -19,8 +19,8 @@
 
 - 📊 Me apasiona el análisis de datos y convertir números en historias visuales
 - 🌱 Actualmente aprendiendo **Python, PostgreSQL y Power BI**
-- 💡 Me encanta crear proyectos que resuelvan preguntas de negocio reales
-- 🚀 Siempre experimentando, aprendiendo y mejorando día a día
+- 🧠 Practicando con ejercicios y proyectos de aprendizaje en análisis de datos
+- 🚀 En constante crecimiento y mejorando mis habilidades día a día
 
 ---
 
