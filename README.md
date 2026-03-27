@@ -48,43 +48,7 @@
 
 ---
 
-## 📊 Mis estadísticas
-
 <div align="center">
-
-🔥 Racha de contribuciones  
-<img src="https://streak-stats.demolab.com/?user=yxdhii&theme=radical" alt="Racha" />
-
-<br/><br/>
-
-📈 Estadísticas de GitHub  
-<img src="https://github-readme-stats.vercel.app/api?username=yxdhii&show_icons=true&theme=dracula" alt="Stats" />
-
-<br/><br/>
-
-💻 Lenguajes más usados  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=dracula" alt="Lenguajes" />
-
-</div>
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🎵 Spotify Data Analysis — Pipeline Completo
-> Pipeline de datos end-to-end sobre las 952 canciones más populares de Spotify
-
-- **Python** — limpieza de datos y visualizaciones con Pandas, Matplotlib y Seaborn
-- **PostgreSQL** — base de datos relacional con 15 queries SQL de análisis
-- **Power BI** — dashboard interactivo con KPIs, gráficos y tabla Top 100
-
-[![Ver proyecto](https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yxdhii/spotify-pipeline)
-
----
-
-<div align="center">
-
-*"Los datos son el nuevo petróleo — y yo aprendo a refinarlo cada día"* 🛢️
 
 ![Coder](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZzY21kb3o3NTYzYmFmNGJ4c3hneHFnMjNwMHNleG95ZngwZWxjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif)
 
