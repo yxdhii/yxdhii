@@ -51,6 +51,8 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 ### 🎨 UX/UI & Herramientas
 <p>
   <img src="https://skillicons.dev/icons?i=figma,github,vscode" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
 </p>
 
   </td>
@@ -88,9 +90,6 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
