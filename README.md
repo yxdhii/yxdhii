@@ -16,11 +16,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas con un fuerte interés en el análisis de datos y cómo estos pueden convertirse en decisiones reales.
-
-Actualmente estoy en proceso de formación como Data Analyst, aprendiendo herramientas como Excel, SQL y Python, y complementando mis conocimientos con desarrollo web y diseño UX/UI.
-
-Me considero una persona en constante aprendizaje, enfocada en mejorar cada día y construir proyectos que reflejen mi crecimiento.
+Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprendiendo de forma autodidacta Excel, SQL y Python, y explorando desarrollo web y UX/UI.
 
 ---
 
