@@ -96,7 +96,7 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 
 <div align="center">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZzY21kb3o3NTYzYmFmNGJ4c3hneHFnMjNwMHNleG95ZngwZWxjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="280"/>
+<img src="./img-reame/hello-kitty-ba-nner.jpg" width="500"/>
 
 ✨ Diseñado y desarrollado por Yadhira Saavedra  
 
