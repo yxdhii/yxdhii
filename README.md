@@ -76,10 +76,10 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yxdhii&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-five-theta-36.vercel.app/api?username=yxdhii&show_icons=true&theme=radical&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-five-theta-36.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=radical&hide_border=true" />
     </td>
   </tr>
   <tr>
