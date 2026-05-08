@@ -20,54 +20,37 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 
 ---
 
+
+
 ## 🛠️ Tecnologías
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+**📊 Datos & Análisis**
 
-### 📊 Datos & Análisis
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgresql" /><br><br>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
-</p>
+<img src="https://img.shields.io/badge/Python-F728D5?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-FF69C7?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-F728D5?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-FF69C7?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F728D5?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-FF69C7?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-F728D5?style=for-the-badge&logoColor=white"/>
 
-  </td>
-  <td width="33%" valign="top">
+**💻 Desarrollo Web**
 
-### 💻 Desarrollo Web
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" /><br><br>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/HTML5-FF69C7?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-F728D5?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FF69C7?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-F728D5?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-FF69C7?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-F728D5?style=for-the-badge&logo=vite&logoColor=white"/>
 
-  </td>
-  <td width="33%" valign="top">
+**🎨 UX/UI & Herramientas**
 
-### 🎨 UX/UI & Herramientas
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48"/>
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
-
-  </td>
-  </tr>
-</table>
+<img src="https://img.shields.io/badge/Figma-FF69C7?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-F728D5?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-FF69C7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-F728D5?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
-## 🚀 Actualmente
 
-- 📊 Aprendiendo análisis de datos con proyectos prácticos  
-- 🧠 Fortaleciendo mi lógica y pensamiento analítico  
-- 💻 Construyendo proyectos con React y Tailwind  
-- 🎯 Enfocada en seguir creciendo y prepararme para mi primera oportunidad en Data  
+## 🌸 Hobbies & Intereses
+
+![](https://img.shields.io/badge/🗺️_Explorar-F73BC6?style=for-the-badge)
+![](https://img.shields.io/badge/🎨_Diseñar-E91E8C?style=for-the-badge)
+![](https://img.shields.io/badge/📖_Leer-D81B7A?style=for-the-badge)
+![](https://img.shields.io/badge/🎮_Gaming-C2185B?style=for-the-badge)
+![](https://img.shields.io/badge/💅_Frontend_Lover-AD1457?style=for-the-badge)
+![](https://img.shields.io/badge/✨_CSS_Artista-9C1146?style=for-the-badge)
+![](https://img.shields.io/badge/🌸_React_Fan-8B0040?style=for-the-badge)
+![](https://img.shields.io/badge/📊_Data_Analysis-F73BC6?style=for-the-badge)
+![](https://img.shields.io/badge/🐍_Python_Lover-E91E8C?style=for-the-badge)
+![](https://img.shields.io/badge/🗄️_SQL_Fan-D81B7A?style=for-the-badge)
 
 ---
 
@@ -76,18 +59,18 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-five-theta-36.vercel.app/api?username=yxdhii&show_icons=true&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-five-theta-36.vercel.app/api?username=yxdhii&show_icons=true&theme=synthwave&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-five-theta-36.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=radical&hide_border=true" />
+      <img src="https://github-readme-stats-five-theta-36.vercel.app/api/top-langs/?username=yxdhii&layout=compact&theme=synthwave&hide_border=true" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=yxdhii&theme=radical&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=yxdhii&theme=synthwave&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxdhii&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxdhii&theme=synthwave" />
     </td>
   </tr>
 </table>
