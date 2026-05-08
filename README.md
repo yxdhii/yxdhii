@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌸 Hola, soy Yadhira 🌸
-### Data Analysis | UX/UI | Desarrollo Web
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F73BC6FF&center=true&vCenter=true&width=700&lines=Data+Analysis+%7C+UX%2FUI+%7C+Desarrollo+Web)](https://git.io/typing-svg)
 
 *Apasionada por los datos, el diseño y el aprendizaje constante.*
 
