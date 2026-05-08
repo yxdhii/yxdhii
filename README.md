@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌸 Hola, soy Yadhira 🌸
-### Data Analyst en camino | UX/UI | Desarrollo Web
+### Data Analysis | UX/UI | Desarrollo Web
 
 *Apasionada por los datos, el diseño y el aprendizaje constante.*
 
@@ -66,7 +66,7 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 
 - 📊 Aprendiendo análisis de datos con proyectos prácticos  
 - 🧠 Fortaleciendo mi lógica y pensamiento analítico  
-- 💻 Construyendo mi portafolio con React y Tailwind  
+- 💻 Construyendo proyectos con React y Tailwind  
 - 🎯 Enfocada en seguir creciendo y prepararme para mi primera oportunidad en Data  
 
 ---
@@ -99,6 +99,6 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ZzY21kb3o3NTYzYmFmNGJ4c3hneHFnMjNwMHNleG95ZngwZWxjOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MYI6NK4JOGpOzOriEg/giphy.gif" width="280"/>
 
 ✨ Diseñado y desarrollado por Yadhira Saavedra  
-📊 En camino a Data Analyst · 2026
+
 
 </div>
