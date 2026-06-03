@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌸 Hola, soy Yadhira 🌸
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F73BC6FF&center=true&vCenter=true&width=700&lines=Data+Analysis+%7C+UX%2FUI+%7C+Desarrollo+Web)](https://git.io/typing-svg)
+# 🌸 Hi, I'm Yadhira 🌸
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F73BC6FF&center=true&vCenter=true&width=700&lines=Data+Analysis+%7C+UX%2FUI+%7C+Web+Development)](https://git.io/typing-svg)
 
-*Apasionada por los datos, el diseño y el aprendizaje constante.*
+*Passionate about data, design, and constant learning.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsyxdhi/)
-[![Portfolio](https://img.shields.io/badge/Portafolio-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white)](https://yadhira-portafolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4D8D?style=for-the-badge&logo=vercel&logoColor=white)](https://yadhira-portafolio.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsyxdhi)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@its.yxdhi)
 
@@ -14,39 +14,36 @@
 
 ---
 
-## 👩‍💻 Sobre mí
+## 👩‍💻 About me
 
-Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprendiendo de forma autodidacta Excel, SQL y Python, y explorando desarrollo web y UX/UI.
+Systems Engineering student with a strong interest in data analysis. Self-taught learner exploring Excel, SQL and Python — while also diving into web development and UX/UI design.
 
 ---
 
+## 🛠️ Tech Stack
 
-
-## 🛠️ Tecnologías
-
-**📊 Datos & Análisis**
+**📊 Data & Analysis**
 
 <img src="https://img.shields.io/badge/Python-F728D5?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-FF69C7?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-F728D5?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Excel-FF69C7?style=for-the-badge&logo=microsoftexcel&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F728D5?style=for-the-badge&logo=powerbi&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-FF69C7?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-F728D5?style=for-the-badge&logoColor=white"/>
 
-**💻 Desarrollo Web**
+**💻 Web Development**
 
 <img src="https://img.shields.io/badge/HTML5-FF69C7?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-F728D5?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-FF69C7?style=for-the-badge&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/React-F728D5?style=for-the-badge&logo=react&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-FF69C7?style=for-the-badge&logo=tailwind-css&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-F728D5?style=for-the-badge&logo=vite&logoColor=white"/>
 
-**🎨 UX/UI & Herramientas**
+**🎨 UX/UI & Tools**
 
 <img src="https://img.shields.io/badge/Figma-FF69C7?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-F728D5?style=for-the-badge&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-FF69C7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-F728D5?style=for-the-badge&logo=github&logoColor=white"/>
 
 ---
 
+## 🌸 Hobbies & Interests
 
-## 🌸 Hobbies & Intereses
-
-![](https://img.shields.io/badge/🗺️_Explorar-F73BC6?style=for-the-badge)
-![](https://img.shields.io/badge/🎨_Diseñar-E91E8C?style=for-the-badge)
-![](https://img.shields.io/badge/📖_Leer-D81B7A?style=for-the-badge)
+![](https://img.shields.io/badge/🗺️_Exploring-F73BC6?style=for-the-badge)
+![](https://img.shields.io/badge/🎨_Designing-E91E8C?style=for-the-badge)
+![](https://img.shields.io/badge/📖_Reading-D81B7A?style=for-the-badge)
 ![](https://img.shields.io/badge/🎮_Gaming-C2185B?style=for-the-badge)
 ![](https://img.shields.io/badge/💅_Frontend_Lover-AD1457?style=for-the-badge)
-![](https://img.shields.io/badge/✨_CSS_Artista-9C1146?style=for-the-badge)
+![](https://img.shields.io/badge/✨_CSS_Artist-9C1146?style=for-the-badge)
 ![](https://img.shields.io/badge/🌸_React_Fan-8B0040?style=for-the-badge)
 ![](https://img.shields.io/badge/📊_Data_Analysis-F73BC6?style=for-the-badge)
 ![](https://img.shields.io/badge/🐍_Python_Lover-E91E8C?style=for-the-badge)
@@ -54,7 +51,7 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 
 ---
 
-## 📈 GitHub en números
+## 📈 GitHub Stats
 
 <table>
   <tr>
@@ -81,7 +78,6 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
 
 <img src="./img-reame/hello-kitty-ba-nner.jpg" width="500"/>
 
-✨ Diseñado y desarrollado por Yadhira Saavedra  
-
+✨ Designed & built by Yadhira Saavedra
 
 </div>
