@@ -67,7 +67,7 @@ Estudiante de Ingeniería de Sistemas con interés en análisis de datos. Aprend
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=yxdhii&theme=synthwave&hide_border=true" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=yxdhii&theme=synthwave&hide_border=true" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxdhii&theme=synthwave&hide_border=true" />
