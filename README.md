@@ -67,7 +67,7 @@ Systems Engineering student with a strong interest in data analysis. Self-taught
       <img src="https://github-readme-streak-stats-eight.vercel.app?user=yxdhii&theme=synthwave&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yxdhii&theme=synthwave&hide_border=true" />
+      <img src="https://github-profile-summary-cards-sooty.vercel.app/api/cards/profile-details?username=yxdhii&theme=synthwave&hide_border=true" />
     </td>
   </tr>
 </table>
